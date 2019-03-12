@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1077238974886",
+    "firebase_url": "https://androidwebtrackproject.firebaseio.com",
+    "project_id": "androidwebtrackproject",
+    "storage_bucket": "androidwebtrackproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077238974886:android:052c875009fadc8f",
+        "android_client_info": {
+          "package_name": "com.example.androidweb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077238974886-fbh8tbr4a470m6omdef7t5841k48rm4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIcE6Sda7yfML4fGjok8GR3KoyzXmlnq0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
